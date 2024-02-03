@@ -81,11 +81,3 @@ Project ini dibuat guna mengevaluasi konsep Computer Vision / Natural Language P
     ```
 
 ---
-
----
-
-## Notes
-
-- **Deadline : P2W2D1 pukul 23:59 WIB.**
-
-- **Keterlambatan pengumpulan tugas mengakibatkan skor Graded Challenge 7 menjadi 0.**
